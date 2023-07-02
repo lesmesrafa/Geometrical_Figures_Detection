@@ -1,2 +1,2 @@
-# Forecast_Power_Usage
-In this repository I use and compare different Deep Learning Algorithms forecast the Power Usage
+# Geometrical Figures Detection
+The main objective of this project is to generate classify and detect geometric figures by using Deep Learning Techniques
